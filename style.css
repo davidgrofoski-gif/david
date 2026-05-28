@@ -1,0 +1,9 @@
+body{
+background-color: rgb(80, 0, 209);
+}
+header{
+background-color: rgb(136, 192, 202);
+color: rgb(5, 101, 165);
+text-align: center;
+max-width: 800px;
+}
